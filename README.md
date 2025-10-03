@@ -1,16 +1,27 @@
-## Hi there 👋
+# <font color="pink">Hello!👋🏻 I'm Carla Barat</font>
 
-<!--
-**Carlabarat/Carlabarat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me  
+I’m currently starting a master in **Big Data and Cloud** at *EDEM*.  
+I hold a degree in **Business Administration and Management** from the Polytechnic University and I am currently based in Valencia, actively seeking new professional opportunities.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Throughout my studies, I gained experience working with business management software (including **SAP SE**), which helped me develop practical skills in **data analysis** and **organizational processes**.  
+I am eager to continue learning and enhancing my expertise, especially in **digital tools** that drive decision-making and business innovation.  
+
+---
+
+## Skills & Interests  
+- 📊 Data Analysis & Visualization  
+- ☁️ Big Data & Cloud Computing  
+- 💼 Business & Digital Strategy  
+- 🤖 Automation & Smart Technologies  
+- 📈 Continuous Learning  
+
+---
+
+## Connect with Me  :)
+
+[LinkedIn](https://www.linkedin.com/in/carla-barat-olaya)  
+[GitHub](https://github.com/Carlabarat)
+
+---
